@@ -86,11 +86,11 @@ Vote Astra</a>
       <div className="flex flex-row w-full h-auto lg:h-56 my-14 lg:my-40 bg-gradient-to-br lg:px-30 from-neutral-900/90 flex items-center justify-start to-neutral-900/50 rounded-lg p-1 shadow-md">
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
-                  <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
+                  <img src="https://images-ext-1.discordapp.net/external/djsrwEySf3BaFKQ_WiQPx3AnMon3CXu0nHZ1OpEth5Y/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/951445895684194324/721e8bdfecbf91428b5381c0b0f02a50.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Astra, the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://cdn.discordapp.com/attachments/737348411568685066/983094813115170866/unknown.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://images-ext-1.discordapp.net/external/djsrwEySf3BaFKQ_WiQPx3AnMon3CXu0nHZ1OpEth5Y/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/951445895684194324/721e8bdfecbf91428b5381c0b0f02a50.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
